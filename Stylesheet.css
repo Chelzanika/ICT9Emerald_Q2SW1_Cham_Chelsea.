@@ -1,0 +1,12 @@
+body { background-color: mistyrose; }
+
+#Logo { text-align:center; }
+
+table {background-color: crimson;
+        margin-left: auto;
+        margin-right: auto;
+    	border-color: white;
+    	font-weight:bolder;
+    	color: white; }
+
+
