@@ -1,0 +1,23 @@
+body { background-color: mistyrose; }
+
+#Logo { text-align:center; }
+
+table {background-color: crimson;
+        margin-left: auto;
+        margin-right: auto;
+    	border-color: crimson;
+    	font-weight:bolder;
+    	color: white; }
+
+th{ font-weight: bolder; 
+	 font-size: xx-large;
+	 background-color: indianred;
+}
+ td{ background-color:lightcoral ; }
+
+
+
+
+
+
+
